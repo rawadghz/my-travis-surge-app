@@ -1,0 +1,26 @@
+{
+  "name": "to_surge_travis",
+  "version": "1.0.0",
+  "description": "to surge using travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawadghz/my-travis-surge-app.git"
+  },
+  "keywords": [
+    "surge",
+    "travis"
+  ],
+  "author": "Rawad Gharzeddine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rawadghz/my-travis-surge-app/issues"
+  },
+  "homepage": "https://github.com/rawadghz/my-travis-surge-app#readme",
+  "devDependencies": {
+    "surge": "^0.23.1"
+  }
+}
