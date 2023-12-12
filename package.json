@@ -2,7 +2,7 @@
   "name": "to_surge_travis",
   "version": "1.0.0",
   "description": "to surge using travis",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
